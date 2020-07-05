@@ -1,3 +1,7 @@
+This project allows you to search and view the github profiles of the github users
+
+demo link - https://githubfinder0402.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
