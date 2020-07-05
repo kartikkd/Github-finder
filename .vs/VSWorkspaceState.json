@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\Components",
+    "\\src\\Components\\Layout",
+    "\\src\\Components\\pages",
+    "\\src\\Components\\repos",
+    "\\src\\Components\\Users",
+    "\\src\\context",
+    "\\src\\context\\github"
+  ],
+  "SelectedNode": "\\src\\Components\\Users\\UserItem.js",
+  "PreviewInSolutionExplorer": false
+}
